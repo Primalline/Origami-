@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+
+h1 {
+    color :#00ff00;
+}
+
+h2 {
+    color :#2e8b57
+}
+
+.site-description{
+    background-color :#00ff7f;
+    display : flex;
+    justify-content : space-evenly;
+}
+
+.grid{
+    background-color :#00ff7f;
+    display : flex;
+    justify-content : space-evenly;
+}
+
+p{
+    text-align : center;
+}
+
+.item{
+    background-color :#00ff7f;
+}
